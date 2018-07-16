@@ -1,0 +1,4 @@
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\LineProcessor\bin\Debug\LineProcessor.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\LineProcessor\bin\Debug\LineProcessor.pdb
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\LineProcessor\obj\Debug\LineProcessor.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\LineProcessor\obj\Debug\LineProcessor.pdb

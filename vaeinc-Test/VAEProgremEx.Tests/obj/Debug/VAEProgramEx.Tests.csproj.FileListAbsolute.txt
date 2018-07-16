@@ -1,0 +1,17 @@
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\Test.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\Test.pdb
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\LineProcessor.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\nunit.framework.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\VAEProgramEx.exe
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\LineProcessor.pdb
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\VAEProgramEx.pdb
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\VAEProgramEx.exe.config
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\bin\Debug\nunit.framework.xml
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\obj\Debug\VAEProgramEx.Tests.csprojResolveAssemblyReference.cache
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\obj\Debug\Test.dll
+D:\Users\RobSharma\Documents\Visual Studio 2017\Projects\vaeinc-Test\VAEProgremEx.Tests\obj\Debug\Test.pdb
